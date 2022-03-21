@@ -3,4 +3,4 @@ The quick brown fox
 
 Jumps over the 
 
-Laxy dog
+Lazy dog
